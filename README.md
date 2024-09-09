@@ -33,9 +33,12 @@ cleaned(AviataionData)
 
 Visualizations
 
+![image](https://github.com/user-attachments/assets/34ed2006-97be-4bb6-a9f2-b2d00cd8ca13)
+
+![image](https://github.com/user-attachments/assets/4dec7712-2624-4ef8-8dd4-ff73b160dbc0)
 
 
-
+![image](https://github.com/user-attachments/assets/c22eb152-6899-41cc-a286-511bfe906273)
 
 
 
